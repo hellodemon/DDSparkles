@@ -1,10 +1,10 @@
-# JBOX'S *~ DDSparkles ~* DDS to PNG Converter
+# JBOX'S *~ DDSparklez ~* DDS to PNG Converter
 
 Because I *refuse* to manually do anything unneccesary.
 
 ![alt text](https://i.imgur.com/hdfciML.png "hello there, nosy")
 
-## 🪄 What does DDSparkles do?
+## 🪄 What does DDSparklez do?
 Got a bunch of *.dds* files sitting around, taunting you with their lack of *.png*-ness? This script’s got you covered. It scans your folder for every *.dds* file it can find, converts them all to .png like it’s no big deal, and saves the day. Batch processing? *Obviously.* Hassle-free? *Absolutely.* Just run it and let it do its thing. No more manual conversions, because fuck you that's why.
 
 ### Requirements

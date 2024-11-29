@@ -11,16 +11,7 @@ Got a bunch of *.dds* files sitting around, taunting you with their lack of *.pn
 - This project uses uses ImageMagick, a command-line tool for image manipulation.
 ## Installation
 
-    Install ImageMagick:
-        Linux (Ubuntu/Debian):
-
-sudo apt-get install imagemagick
-
-MacOS (using Homebrew):
-
-    brew install imagemagick
-
-    Windows:
+Windows:
     Download and install from ImageMagick's official site.
 
 Verify the installation:

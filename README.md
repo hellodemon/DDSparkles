@@ -1,6 +1,3 @@
-# DDSparkles
-A stupidly named mass .dds (DirectDraw Surface) to .png batch converter
-
 # JBOX'S *~ DDSparkles ~* DDS to PNG Converter
 
 Because I *refuse* to manually do anything unneccesary.
